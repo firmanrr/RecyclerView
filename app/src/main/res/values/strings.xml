@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Gunung Rinjani</item>
+        <item>Gunung Bromo</item>
+        <item>Gunung Merapi</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Agung</item>
+        <item>Gunung Bawakaraeng</item>
+        <item>Puncak Jaya Papua</item>
+        <item>Gunung Sumbing</item>
+        <item>Gunung Papandayan</item>
+        <item>Gunung Slamet</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Salak</item>
+        <item>Gunung Raung</item>
+        <item>Gunung Latimojong</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>
+            Gunung Rinjani, dengan ketinggian mencapai 3.726 meter di atas permukaan laut, merupakan gunung berapi aktif yang menjulang di Pulau Lombok, Nusa Tenggara Barat, Indonesia. Posisinya sebagai gunung tertinggi kedua di Indonesia menambahkan keistimewaannya sebagai tujuan pendakian yang sangat dicari. Kawah Segara Anak, sebuah danau kawah di puncaknya, menyajikan pemandangan memukau yang dikelilingi oleh dinding kawah yang tinggi. Pendakian ke puncak Rinjani adalah perjalanan mendebarkan yang membuka peluang melihat pemandangan spektakuler pulau Lombok dan samudera, meskipun puncak gunung sering tersembunyi oleh awan.
+
+Saat pendaki melewati rerumputan savana yang luas dan hutan tropis selama pendakian, mereka tidak hanya menemui keindahan alam yang menakjubkan tetapi juga menjelajahi berbagai ekosistem yang unik. Perjalanan ini membawa mereka melewati dua air terjun menakjubkan, Tiu Kelep dan Sendang Gile, yang menjadi pilihan istirahat populer.
+        </item>
+        <item>Gunung Bromo adalah sebuah gunung berapi yang terletak di Taman Nasional Bromo Tengger Semeru, Jawa Timur, Indonesia. Gunung ini merupakan salah satu destinasi wisata alam yang paling terkenal di Indonesia. Berikut adalah deskripsi singkat tentang Gunung Bromo:
+
+Gunung Bromo memiliki ketinggian sekitar 2.329 meter di atas permukaan laut dan terletak dalam kaldera lautan pasir seluas sekitar 10 kilometer persegi. Gunung ini dikelilingi oleh empat gunung lainnya, yaitu Gunung Batok, Gunung Kursi, Gunung Watangan, dan Gunung Widodaren.
+
+Daya tarik utama Gunung Bromo adalah kawahnya yang aktif dan pemandangannya yang spektakuler. Kawah Bromo memiliki diameter sekitar 800 meter dan dikelilingi oleh dinding kawah yang curam. Setiap pagi, ketika matahari terbit, pengunjung dapat menyaksikan pemandangan matahari terbit yang mempesona dari Gunung Penanjakan yang terletak tidak jauh dari Bromo.</item>
+        <item>Gunung Merapi, yang secara harfiah berarti "Gunung Api," adalah salah satu gunung berapi paling aktif dan terkenal di Indonesia. Terletak di Pulau Jawa, Yogyakarta dan Jawa Tengah, Gunung Merapi menjulang dengan ketinggian sekitar 2.930 meter di atas permukaan laut. Nama "Merapi" menggambarkan karakteristiknya yang seringkali meletus dengan intensitas yang tinggi, menciptakan lahar panas dan awan panas yang dapat membahayakan wilayah sekitarnya.
+
+Gunung Merapi memiliki keindahan alam yang menakjubkan, dihiasi dengan lembah-lembah hijau dan sungai-sungai yang membelah lerengnya. Pada puncaknya, terdapat kawah yang aktif dan berubah bentuk seiring waktu akibat letusan-letusan periodiknya. Pemandangan dari puncak Merapi memberikan perspektif luar biasa terhadap kebesaran alam dan kekuatan alam yang mendalam.
+
+Kawasan sekitar Gunung Merapi juga memiliki nilai sejarah dan kebudayaan yang tinggi. Candi Prambanan, sebuah kompleks candi Hindu terbesar di Indonesia, terletak tidak jauh dari kaki gunung. Masyarakat lokal yang tinggal di sekitar Merapi, termasuk suku Jawa, menjadikan gunung ini sebagai bagian integral dari kehidupan dan keyakinan mereka.</item>
+        <item>Gunung Semeru atau Gunung Meru adalah sebuah gunung berapi kerucut di Jawa Timur, Indonesia. Gunung Semeru merupakan gunung tertinggi di Pulau Jawa, dengan puncaknya Mahameru, 3676 meter dari permukaan laut (mdpl). Gunung ini terbentuk akibat subduksi Lempeng Indo Australia kebawah Lempeng Eurasia. Gunung Semeru juga merupakan gunung berapi tertinggi ketiga di Indonesia setelah Gunung Kerinci di Sumatra dan Gunung Rinjani di Nusa Tenggara Barat.[1] Kawah di puncak Gunung Semeru dikenal dengan nama Jonggring Saloko.
+Gunung Semeru secara administratif termasuk dalam wilayah dua kabupaten, yakni Kabupaten Malang dan Kabupaten Lumajang, Provinsi Jawa Timur. Gunung ini termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru. Semeru mempunyai kawasan hutan Dipterokarp Bukit, hutan Dipterokarp Atas, hutan Montane, dan Hutan Ericaceous atau hutan gunung.</item>
+        <item>Gunung Kerinci (juga dieja "Kerintji", dan dikenal sebagai Gunung Gadang, Merapi) adalah gunung tertinggi di pulau Sumatra dan gunung berapi tertinggi di Indonesia. Gunung Kerinci terletak di perbatasan Kabupaten Kerinci, Jambi dan Kabupaten Solok Selatan, Sumatera Barat, di Pegunungan Bukit Barisan dengan ketinggian 3.805 mdpl. Gunung ini juga menjadi batas antara wilayah Suku Kerinci dengan Etnis Minangkabau yang dikelilingi hutan lebat Taman Nasional Kerinci Seblat, yang merupakan habitat harimau sumatra dan badak sumatra.
+Gunung Kerinci merupakan gunung berapi bertipe stratovolkano yang masih aktif hingga saat ini. Pada puncak Gunung Kerinci, dapat melihat di kejauhan membentang pemandangan indah Kota Jambi, Kota Padang, dan Kota Bengkulu, bahkan Samudra Hindia yang luas dapat terlihat dengan jelas. Gunung Kerinci memiliki kawah seluas 400 x 120 meter dan berisi air yang berwarna hijau. Di sebelah timur terdapat Rawa Bento, rawa berair jernih tertinggi di Sumatra. Di belakangnya terdapat Gunung Tujuh dengan kawah yang hampir tak tersentuh.</item>
+        <item> Gunung Agung adalah gunung tertinggi di pulau Bali dengan ketinggian 3.142 mdpl. Gunung ini terletak di kecamatan Rendang, Kabupaten Karangasem, Bali, Indonesia. Pura Besakih, yang merupakan salah satu Pura terpenting di Bali, terletak di lereng gunung ini.
+Gunung Agung adalah gunung berapi tipe stratovulkan, gunung ini memiliki kawah yang sangat besar dan sangat dalam yang kadang-kadang mengeluarkan asap dan uap air. Dari Pura Besakih gunung ini tampak dengan kerucut runcing sempurna, tetapi sebenarnya puncak gunung ini memanjang dan berakhir pada kawah yang melingkar dan lebar.
+Dari puncak gunung Agung kita dapat melihat puncak Gunung Rinjani yang berada di pulau Lombok di sebelah timur, meskipun kedua gunung tertutup awan karena kedua puncak gunung tersebut berada di atas awan, kepulauan Nusa Penida di sebelah selatan beserta pantai-pantainya, termasuk pantai Sanur serta gunung dan danau Batur di sebelah barat laut.
+        </item>
+        <item>Gunung Bawakaraeng, juga dikenal sebagai Gunung Bawakaraeng atau Gunung Bokil, adalah gunung yang terletak di Sulawesi Selatan, Indonesia. Dengan ketinggian sekitar 2.887 meter di atas permukaan laut, gunung ini merupakan salah satu gunung tertinggi di Sulawesi. Terletak di antara Kabupaten Gowa dan Kabupaten Maros, Gunung Bawakaraeng menawarkan pemandangan alam yang memukau dan pengalaman pendakian yang menantang.
+Lereng gunung ini ditutupi oleh hutan hujan tropis yang lebat, menciptakan ekosistem yang kaya dan beragam. Pendaki akan menemui berbagai flora dan fauna endemik yang hidup di sekitar kawasan gunung. Rerumputan savana yang luas juga dapat ditemui di beberapa bagian gunung, menambah pesona visual selama perjalanan mendaki.
+Pendakian ke puncak Gunung Bawakaraeng tidak hanya memberikan pengalaman fisik yang menantang, tetapi juga mempersembahkan pemandangan luar biasa di sepanjang perjalanan. Dari puncak, para pendaki dapat menyaksikan panorama yang mengagumkan, termasuk pegunungan sekitarnya, lembah, dan langit yang biru. Selain itu, suasana tenang dan udara segar di ketinggian membuat perjalanan ini menjadi pengalaman yang mendalam dan memuaskan.</item>
+        <item>Gunung Puncak Jaya, juga dikenal sebagai Carstensz Pyramid, merupakan puncak tertinggi di Oceania dan satu-satunya puncak dari Seven Summits yang terletak di Papua, Indonesia. Dengan ketinggian mencapai 4.884 meter di atas permukaan laut, gunung ini menawarkan pengalaman mendaki yang menantang dan pemandangan alam yang memukau. Terletak di Provinsi Papua, tepatnya di Pegunungan Sudirman, Gunung Puncak Jaya dikelilingi oleh hutan hujan tropis yang lebat, dan lerengnya ditutupi oleh gletser dan salju abadi.
+Mendaki Gunung Puncak Jaya memerlukan keahlian teknis dan persiapan yang matang karena rute pendakian melibatkan medan yang sulit, termasuk mendaki es, menyeberangi gletser, dan menggunakan peralatan khusus. Para pendaki akan menemui pemandangan yang luar biasa sepanjang perjalanan mereka, termasuk hutan hujan tropis yang megah dan pemandangan gunung yang menjulang di sekitarnya.
+Salah satu ciri khas Gunung Puncak Jaya adalah batu-batu karst yang berada di puncaknya, memberikan kesan unik dan ikonik. Meskipun medan pendakian yang sulit, puncak gunung ini menawarkan pandangan yang memukau, terutama saat matahari terbit dan terbenam. Pemandangan yang meliputi wilayah Papua yang luas dan langit biru yang terbentang memberikan pengalaman mendaki yang tak terlupakan.
+</item>
+        <item>Gunung Sumbing adalah gunung berapi kerucut tipe Stratovolcano yang terletak di Jawa Tengah, Indonesia. Dengan ketinggian sekitar 3.371 meter di atas permukaan laut, Gunung Sumbing menjadi salah satu gunung tertinggi di Pulau Jawa. Bersama dengan Gunung Sindoro, yang terletak di sebelah utaranya, Gunung Sumbing membentuk rangkaian pegunungan yang mempesona di kawasan ini.
+Gunung Sumbing terletak di sebelah barat daya Kabupaten Temanggung dan sebelah timur laut Kabupaten Magelang. Lereng gunung ini ditutupi oleh hutan-hutan tropis yang lebat, menyajikan pemandangan alam yang hijau dan beragam. Puncak Gunung Sumbing sendiri ditutupi oleh bebatuan dan rumput alpin, memberikan nuansa yang unik selama pendakian.
+Pendakian Gunung Sumbing merupakan kegiatan yang popular di kalangan para pendaki dan pencinta alam. Terdapat beberapa jalur pendakian yang dapat dipilih, termasuk dari arah Garung (Magelang), Cepit, dan Sumbing Lor (Temanggung). Selama perjalanan mendaki, para pendaki dapat menikmati keindahan alam pegunungan, sungai-sungai kecil, dan hutan-hutan yang menyegarkan.
+</item>
+        <item>Gunung Papandayan, terletak di Kabupaten Garut, Jawa Barat, Indonesia, adalah gunung berapi aktif yang menawarkan pengalaman pendakian yang menarik. Dengan ketinggian sekitar 2.665 meter di atas permukaan laut, gunung ini memukau para pendaki dengan lanskap yang beragam, mulai dari padang rumput alpin hingga kawah vulkanik yang indah. Kawah Mas, salah satu tujuan utama pendakian, menunjukkan aktivitas vulkanik yang terus berlanjut. Selain itu, pendaki dapat menikmati keindahan Bukit Taman Edelweis dan Gunung Putri.
+            Aksesibilitasnya dari daerah Cisurupan, Garut, memudahkan para pendaki untuk memulai perjalanan dari Pos Cikondang atau Kandang Badak. Selama pendakian, para pengunjung dapat melihat sumber air panas dan uap yang keluar dari tanah, menambah nuansa geotermal yang unik. Gunung Papandayan juga menyajikan keunikan budaya dengan adanya pemukiman lokal di sekitarnya, memungkinkan interaksi antara pendaki dan masyarakat setempat. Sebagai destinasi yang terkenal di Jawa Barat, Gunung Papandayan menggabungkan pesona alam yang megah dengan keberagaman aktivitas vulkanik yang membuatnya menjadi tempat yang menarik bagi pencinta alam dan pendaki.</item>
+    <item>Gunung Slamet, dengan ketinggian sekitar 3.428 meter di atas permukaan laut, adalah gunung berapi tertinggi di Pulau Jawa dan terletak di perbatasan antara lima kabupaten di Jawa Tengah, yaitu Brebes, Banyumas, Purbalingga, Tegal, dan Pemalang. Gunung ini memiliki ciri khas puncak yang terdiri dari beberapa kubah vulkanik yang membentuk siluet yang khas.
+Pendakian Gunung Slamet menawarkan pengalaman yang menarik dengan pemandangan alam yang memukau. Terdapat beberapa jalur pendakian yang dapat dipilih, seperti dari Bambangan (Tegal), Baturaden (Purwokerto), atau Gambuhan (Purbalingga). Rute pendakian ini melewati hutan pegunungan yang lebat, dan para pendaki dapat menikmati keindahan alam serta fauna dan flora yang kaya.
+Puncak Gunung Slamet terkenal dengan kawah utamanya yang disebut "Kawah Slamet." Dari puncak ini, para pendaki dapat menyaksikan pemandangan yang menakjubkan, termasuk matahari terbit atau terbenam, serta garis pegunungan yang terbentang luas. Di kawasan sekitarnya, terdapat beberapa danau dan sumber mata air yang menjadi daya tarik tambahan bagi para pendaki.
+Keunikan lain dari Gunung Slamet adalah keberadaan beberapa tempat ibadah dan makam di sekitarnya yang mencerminkan nilai-nilai keagamaan dan budaya setempat. </item>
+    <item>Gunung Lawu, dengan ketinggian sekitar 3.265 meter di atas permukaan laut, adalah gunung berapi yang terletak di perbatasan Jawa Tengah dan Jawa Timur, Indonesia. Gunung ini memiliki nilai spiritual dan sejarah yang tinggi, ditandai dengan adanya kompleks candi di puncaknya, yaitu Candi Sukuh dan Candi Cetho.
+Pendakian Gunung Lawu menyuguhkan perpaduan keindahan alam pegunungan, keberagaman vegetasi, dan nilai budaya yang kuat. Terdapat beberapa jalur pendakian yang dapat dipilih, termasuk jalur Cemoro Sewu dari Jawa Timur dan jalur Cetho dari Jawa Tengah. Kedua jalur ini membawa para pendaki melewati hutan-hutan yang rimbun dan pemandangan yang menakjubkan.
+Salah satu daya tarik utama Gunung Lawu adalah Candi Sukuh dan Candi Cetho. Candi Sukuh memiliki arsitektur yang unik dan terkenal dengan relief-relief erotisnya. Sementara Candi Cetho, dibangun di atas tanjakan yang tinggi, menawarkan pemandangan indah sekitarnya dan merupakan tempat suci yang masih digunakan untuk persembahan upacara oleh masyarakat setempat.</item>
+    <item>Gunung Salak merupakan kompleks gunung berapi yang terletak di selatan Jakarta, di Pulau Jawa. Kawasan rangkaian gunung ini termasuk ke dalam wilayah Kabupaten Sukabumi dan Kabupaten Bogor, Jawa Barat. Pengelolaan kawasan hutannya semula berada di bawah Perum Perhutani Kesatuan Pemangkuan Hutan (KPH) Bogor, tetapi sejak 2003 menjadi wilayah perluasan Taman Nasional Gunung Halimun, dan dikelola sebagai Taman Nasional Gunung Halimun-Salak.
+Gunung Salak berusia relatif tua sehingga memiliki beberapa puncak. .
+Banyak yang mengira asal nama "Salak" adalah dari tanaman salak, akan tetapi sesungguhnya berasal dari kata bahasa Sanskerta, salaka yang berarti "perak".</item>
+    <item>Gunung Raung, terletak di Kabupaten Banyuwangi, Jawa Timur, Indonesia, menawarkan pengalaman pendakian yang menakjubkan bagi para pencinta alam dan pendaki. Dengan ketinggian mencapai 3.332 meter di atas permukaan laut, gunung ini menyajikan lanskap yang beragam, mulai dari hutan hutan pegunungan yang lebat hingga kawah vulkanik yang imponen. Pendakian Gunung Raung dapat dimulai melalui berbagai jalur, salah satunya adalah jalur yang melewati Desa Sumberwringin. Jalur ini menjanjikan pengalaman pendakian yang indah, memperlihatkan keanekaragaman flora dan fauna endemik yang hidup di sekitar gunung.
+        Puncak Gunung Raung menjadi daya tarik utama, menawarkan pemandangan yang menakjubkan, terutama saat matahari terbit atau terbenam. Para pendaki dapat menikmati panorama yang melibatkan sejumlah gunung dan lembah di sekitarnya. Kawah Raung, kawah utama gunung ini, memberikan pengalaman pendakian yang khas dengan luasnya yang mencolok dan dinding kawah yang curam. Pendakian ke kawah juga merupakan daya tarik unik yang memberikan tantangan ekstra dan pengalaman tak terlupakan.</item>
+    <item>Gunung Latimojong adalah satu nama gunung di Kabupaten Enrekang, Sulawesi Selatan, Indonesia. Gunung Latimojong berada di tengah-tengah Sulawesi Selatan. Sebagian besar pengunungan ini terletak di daerah Kabupaten Enrekang.
+Gunung Latimojong merupakan gunung yang tertinggi di Sulawesi Selatan dengan ketinggian 3.478 meter, puncaknya yang bernama Bulu Rante Mario. Pegunungan Latimojong ini membentang dari selatan ke utara. Di sebelah barat Gunung Latimojong adalah Kabupaten Enrekang, sebelah utara Kabupaten Tana Toraja, sebelah selatan adalah daerah Kabupaten Sidenreng Rappang dan area sebelah timur seluruhnya wilayah Kabupaten Luwu sampai di pinggir pantai Teluk Bone.</item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/video1</item>
+        <item>@raw/video2</item>
+        <item>@raw/video3</item>
+        <item>@raw/video4</item>
+        <item>@raw/video5</item>
+        <item>@raw/video6</item>
+        <item>@raw/video7</item>
+        <item>@raw/video8</item>
+        <item>@raw/video9</item>
+        <item>@raw/video10</item>
+        <item>@raw/video11</item>
+        <item>@raw/video12</item>
+        <item>@raw/video13</item>
+        <item>@raw/video14</item>
+        <item>@raw/video15</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+        <item>@drawable/gambar9</item>
+        <item>@drawable/gambar10</item>
+        <item>@drawable/gambar11</item>
+        <item>@drawable/gambar12</item>
+        <item>@drawable/gambar13</item>
+        <item>@drawable/gambar14</item>
+        <item>@drawable/gambar15</item>
+
+    </integer-array>
+</resources>
